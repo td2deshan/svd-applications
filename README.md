@@ -1,5 +1,5 @@
 # svd-applications
- Singular Value Decomposition (SVD)\n
+ Singular Value Decomposition (SVD)
  
  references:
  1) <a href="https://www.youtube.com/watch?v=gXbThCXjZFM&list=PLMrJAkhIeNNSVjnsviglFoY2nXildDCcv">Steve Brunton youtube channel</a>
